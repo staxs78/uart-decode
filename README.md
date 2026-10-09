@@ -103,6 +103,11 @@ verified encoder the tests use, so the output is guaranteed to match.
 - A capture with no edges at all is reported as such (exit 2 for flat input);
   "no signal" is a valid, useful answer.
 
+## Related tools
+
+- [price-match](https://github.com/staxs78/price-match) - deterministic competitor price matching for Shopify catalogs (SKU/title/fuzzy ladder, confidence per row).
+- [solana-costgate](https://github.com/staxs78/solana-costgate) - after-cost profitability gate for atomic Solana arbitrage.
+
 ## License
 
 MIT — see `LICENSE`.
